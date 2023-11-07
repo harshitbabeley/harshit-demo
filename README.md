@@ -1,4 +1,4 @@
 # harshit-demo
 This is my first repository
 <br>
-Author- Harshit Babeley
+Author- Harshit Babele
